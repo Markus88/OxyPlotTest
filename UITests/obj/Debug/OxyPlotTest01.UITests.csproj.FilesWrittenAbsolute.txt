@@ -1,0 +1,7 @@
+/Users/patricklange/Projects/OxyPlotTest01/OxyPlotTest/UITests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/patricklange/Projects/OxyPlotTest01/OxyPlotTest/UITests/bin/Debug/OxyPlotTest01.UITests.dll.mdb
+/Users/patricklange/Projects/OxyPlotTest01/OxyPlotTest/UITests/bin/Debug/OxyPlotTest01.UITests.dll
+/Users/patricklange/Projects/OxyPlotTest01/OxyPlotTest/UITests/obj/Debug/OxyPlotTest01.UITests.dll
+/Users/patricklange/Projects/OxyPlotTest01/OxyPlotTest/UITests/obj/Debug/OxyPlotTest01.UITests.dll.mdb
+/Users/patricklange/Projects/OxyPlotTest01/OxyPlotTest/UITests/bin/Debug/nunit.framework.dll
+/Users/patricklange/Projects/OxyPlotTest01/OxyPlotTest/UITests/bin/Debug/Xamarin.UITest.dll
